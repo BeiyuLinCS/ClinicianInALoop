@@ -1,0 +1,954 @@
+2018-04-10 23:21:22,064 - AlFeature - DEBUG - add activity class Enter_Home
+2018-04-10 23:21:22,064 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-10 23:21:22,064 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-10 23:21:22,064 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-10 23:21:22,065 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-10 23:21:22,065 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-10 23:21:22,065 - AlFeature - DEBUG - add activity class Relax
+2018-04-10 23:21:22,065 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-10 23:21:22,065 - AlFeature - DEBUG - add activity class Work
+2018-04-10 23:21:22,065 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-10 23:21:22,065 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-10 23:21:22,065 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-10 23:21:22,065 - AlFeature - DEBUG - add activity class Sleep
+2018-04-10 23:21:22,065 - AlFeature - DEBUG - Finished assigning index to activities. 7 Activities enabled
+2018-04-10 23:21:22,065 - AlFeature - DEBUG - add activity class Leave_Home
+2018-04-10 23:21:22,065 - AlFeature - DEBUG - Finished assigning index to activities. 8 Activities enabled
+2018-04-10 23:21:22,065 - AlFeature - DEBUG - add activity class Cook
+2018-04-10 23:21:22,066 - AlFeature - DEBUG - Finished assigning index to activities. 9 Activities enabled
+2018-04-10 23:21:22,066 - AlFeature - DEBUG - add activity class Eat
+2018-04-10 23:21:22,066 - AlFeature - DEBUG - Finished assigning index to activities. 10 Activities enabled
+2018-04-10 23:21:22,066 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-10 23:21:22,066 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-10 23:21:22,066 - AlFeature - DEBUG - Add sensor OutsideDoor to sensor list
+2018-04-10 23:21:22,066 - AlFeature - DEBUG - Add sensor Office to sensor list
+2018-04-10 23:21:22,066 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-10 23:21:22,066 - AlFeature - DEBUG - Add sensor Bedroom to sensor list
+2018-04-10 23:21:22,066 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-10 23:21:22,066 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-10 23:21:22,066 - AlFeature - DEBUG - Add 8 Sensors into sensorList
+2018-04-10 23:21:22,067 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-10 23:21:22,067 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-10 23:21:22,067 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-10 23:21:22,097 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-10 23:21:22,097 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-10 23:21:22,097 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-10 23:21:22,097 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-10 23:21:22,097 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-10 23:21:22,097 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-10 23:21:22,097 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-10 23:21:22,097 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-10 23:21:22,097 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-10 23:21:22,097 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-10 23:21:22,098 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-10 23:21:22,098 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-10 23:21:22,098 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-10 23:21:22,098 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-10 23:21:23,048 - AlFeature - DEBUG - Total amount of feature vectors calculated: 4869
+2018-04-10 23:25:39,894 - AlFeature - DEBUG - add activity class Enter_Home
+2018-04-10 23:25:39,895 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-10 23:25:39,895 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-10 23:25:39,895 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-10 23:25:39,895 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-10 23:25:39,895 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-10 23:25:39,895 - AlFeature - DEBUG - add activity class Relax
+2018-04-10 23:25:39,895 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-10 23:25:39,896 - AlFeature - DEBUG - add activity class Work
+2018-04-10 23:25:39,896 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-10 23:25:39,896 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-10 23:25:39,896 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-10 23:25:39,896 - AlFeature - DEBUG - add activity class Sleep
+2018-04-10 23:25:39,896 - AlFeature - DEBUG - Finished assigning index to activities. 7 Activities enabled
+2018-04-10 23:25:39,896 - AlFeature - DEBUG - add activity class Leave_Home
+2018-04-10 23:25:39,896 - AlFeature - DEBUG - Finished assigning index to activities. 8 Activities enabled
+2018-04-10 23:25:39,896 - AlFeature - DEBUG - add activity class Cook
+2018-04-10 23:25:39,896 - AlFeature - DEBUG - Finished assigning index to activities. 9 Activities enabled
+2018-04-10 23:25:39,896 - AlFeature - DEBUG - add activity class Eat
+2018-04-10 23:25:39,896 - AlFeature - DEBUG - Finished assigning index to activities. 10 Activities enabled
+2018-04-10 23:25:39,896 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-10 23:25:39,897 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-10 23:25:39,897 - AlFeature - DEBUG - Add sensor OutsideDoor to sensor list
+2018-04-10 23:25:39,897 - AlFeature - DEBUG - Add sensor Office to sensor list
+2018-04-10 23:25:39,897 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-10 23:25:39,897 - AlFeature - DEBUG - Add sensor Bedroom to sensor list
+2018-04-10 23:25:39,897 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-10 23:25:39,897 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-10 23:25:39,897 - AlFeature - DEBUG - Add 8 Sensors into sensorList
+2018-04-10 23:25:39,897 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-10 23:25:39,897 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-10 23:25:39,897 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-10 23:25:39,925 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-10 23:25:39,926 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-10 23:25:39,926 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-10 23:25:39,926 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-10 23:25:39,926 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-10 23:25:39,926 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-10 23:25:39,927 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-10 23:25:39,927 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-10 23:25:39,927 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-10 23:25:39,927 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-10 23:25:39,927 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-10 23:25:39,928 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-10 23:25:39,928 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-10 23:25:39,928 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-10 23:25:40,863 - AlFeature - DEBUG - Total amount of feature vectors calculated: 4869
+2018-04-10 23:30:42,805 - AlFeature - DEBUG - add activity class Enter_Home
+2018-04-10 23:30:42,805 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-10 23:30:42,805 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-10 23:30:42,805 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-10 23:30:42,805 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-10 23:30:42,806 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-10 23:30:42,806 - AlFeature - DEBUG - add activity class Relax
+2018-04-10 23:30:42,806 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-10 23:30:42,806 - AlFeature - DEBUG - add activity class Work
+2018-04-10 23:30:42,806 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-10 23:30:42,806 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-10 23:30:42,806 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-10 23:30:42,806 - AlFeature - DEBUG - add activity class Sleep
+2018-04-10 23:30:42,806 - AlFeature - DEBUG - Finished assigning index to activities. 7 Activities enabled
+2018-04-10 23:30:42,806 - AlFeature - DEBUG - add activity class Leave_Home
+2018-04-10 23:30:42,806 - AlFeature - DEBUG - Finished assigning index to activities. 8 Activities enabled
+2018-04-10 23:30:42,806 - AlFeature - DEBUG - add activity class Cook
+2018-04-10 23:30:42,806 - AlFeature - DEBUG - Finished assigning index to activities. 9 Activities enabled
+2018-04-10 23:30:42,807 - AlFeature - DEBUG - add activity class Eat
+2018-04-10 23:30:42,807 - AlFeature - DEBUG - Finished assigning index to activities. 10 Activities enabled
+2018-04-10 23:30:42,807 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-10 23:30:42,807 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-10 23:30:42,807 - AlFeature - DEBUG - Add sensor OutsideDoor to sensor list
+2018-04-10 23:30:42,807 - AlFeature - DEBUG - Add sensor Office to sensor list
+2018-04-10 23:30:42,807 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-10 23:30:42,807 - AlFeature - DEBUG - Add sensor Bedroom to sensor list
+2018-04-10 23:30:42,807 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-10 23:30:42,807 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-10 23:30:42,807 - AlFeature - DEBUG - Add 8 Sensors into sensorList
+2018-04-10 23:30:42,807 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-10 23:30:42,807 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-10 23:30:42,808 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-10 23:30:42,832 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-10 23:30:42,833 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-10 23:30:42,833 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-10 23:30:42,833 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-10 23:30:42,833 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-10 23:30:42,833 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-10 23:30:42,833 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-10 23:30:42,833 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-10 23:30:42,833 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-10 23:30:42,833 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-10 23:30:42,834 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-10 23:30:42,834 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-10 23:30:42,834 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-10 23:30:42,834 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-10 23:30:43,771 - AlFeature - DEBUG - Total amount of feature vectors calculated: 4869
+2018-04-10 23:36:30,374 - AlFeature - DEBUG - add activity class Enter_Home
+2018-04-10 23:36:30,374 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-10 23:36:30,374 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-10 23:36:30,375 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-10 23:36:30,375 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-10 23:36:30,375 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-10 23:36:30,375 - AlFeature - DEBUG - add activity class Relax
+2018-04-10 23:36:30,375 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-10 23:36:30,375 - AlFeature - DEBUG - add activity class Work
+2018-04-10 23:36:30,375 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-10 23:36:30,375 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-10 23:36:30,375 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-10 23:36:30,375 - AlFeature - DEBUG - add activity class Sleep
+2018-04-10 23:36:30,375 - AlFeature - DEBUG - Finished assigning index to activities. 7 Activities enabled
+2018-04-10 23:36:30,375 - AlFeature - DEBUG - add activity class Leave_Home
+2018-04-10 23:36:30,375 - AlFeature - DEBUG - Finished assigning index to activities. 8 Activities enabled
+2018-04-10 23:36:30,376 - AlFeature - DEBUG - add activity class Cook
+2018-04-10 23:36:30,376 - AlFeature - DEBUG - Finished assigning index to activities. 9 Activities enabled
+2018-04-10 23:36:30,376 - AlFeature - DEBUG - add activity class Eat
+2018-04-10 23:36:30,376 - AlFeature - DEBUG - Finished assigning index to activities. 10 Activities enabled
+2018-04-10 23:36:30,376 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-10 23:36:30,376 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-10 23:36:30,376 - AlFeature - DEBUG - Add sensor OutsideDoor to sensor list
+2018-04-10 23:36:30,376 - AlFeature - DEBUG - Add sensor Office to sensor list
+2018-04-10 23:36:30,376 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-10 23:36:30,376 - AlFeature - DEBUG - Add sensor Bedroom to sensor list
+2018-04-10 23:36:30,376 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-10 23:36:30,376 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-10 23:36:30,376 - AlFeature - DEBUG - Add 8 Sensors into sensorList
+2018-04-10 23:36:30,377 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-10 23:36:30,377 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-10 23:36:30,377 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-10 23:36:30,408 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-10 23:36:30,408 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-10 23:36:30,408 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-10 23:36:30,408 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-10 23:36:30,408 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-10 23:36:30,408 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-10 23:36:30,408 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-10 23:36:30,409 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-10 23:36:30,409 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-10 23:36:30,409 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-10 23:36:30,409 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-10 23:36:30,409 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-10 23:36:30,410 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-10 23:36:30,410 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-10 23:36:31,348 - AlFeature - DEBUG - Total amount of feature vectors calculated: 4869
+2018-04-10 23:39:09,351 - AlFeature - DEBUG - add activity class Enter_Home
+2018-04-10 23:39:09,352 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-10 23:39:09,352 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-10 23:39:09,352 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-10 23:39:09,352 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-10 23:39:09,352 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-10 23:39:09,352 - AlFeature - DEBUG - add activity class Relax
+2018-04-10 23:39:09,352 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-10 23:39:09,352 - AlFeature - DEBUG - add activity class Work
+2018-04-10 23:39:09,352 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-10 23:39:09,352 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-10 23:39:09,352 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-10 23:39:09,352 - AlFeature - DEBUG - add activity class Sleep
+2018-04-10 23:39:09,353 - AlFeature - DEBUG - Finished assigning index to activities. 7 Activities enabled
+2018-04-10 23:39:09,353 - AlFeature - DEBUG - add activity class Leave_Home
+2018-04-10 23:39:09,353 - AlFeature - DEBUG - Finished assigning index to activities. 8 Activities enabled
+2018-04-10 23:39:09,353 - AlFeature - DEBUG - add activity class Cook
+2018-04-10 23:39:09,353 - AlFeature - DEBUG - Finished assigning index to activities. 9 Activities enabled
+2018-04-10 23:39:09,353 - AlFeature - DEBUG - add activity class Eat
+2018-04-10 23:39:09,353 - AlFeature - DEBUG - Finished assigning index to activities. 10 Activities enabled
+2018-04-10 23:39:09,353 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-10 23:39:09,353 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-10 23:39:09,353 - AlFeature - DEBUG - Add sensor OutsideDoor to sensor list
+2018-04-10 23:39:09,353 - AlFeature - DEBUG - Add sensor Office to sensor list
+2018-04-10 23:39:09,353 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-10 23:39:09,354 - AlFeature - DEBUG - Add sensor Bedroom to sensor list
+2018-04-10 23:39:09,354 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-10 23:39:09,354 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-10 23:39:09,354 - AlFeature - DEBUG - Add 8 Sensors into sensorList
+2018-04-10 23:39:09,354 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-10 23:39:09,354 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-10 23:39:09,354 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-10 23:39:09,383 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-10 23:39:09,384 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-10 23:39:09,384 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-10 23:39:09,384 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-10 23:39:09,384 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-10 23:39:09,384 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-10 23:39:09,385 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-10 23:39:09,385 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-10 23:39:09,385 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-10 23:39:09,385 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-10 23:39:09,386 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-10 23:39:09,386 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-10 23:39:09,386 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-10 23:39:09,386 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-10 23:39:10,322 - AlFeature - DEBUG - Total amount of feature vectors calculated: 4869
+2018-04-10 23:45:24,843 - AlFeature - DEBUG - add activity class Enter_Home
+2018-04-10 23:45:24,844 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-10 23:45:24,844 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-10 23:45:24,844 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-10 23:45:24,844 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-10 23:45:24,844 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-10 23:45:24,844 - AlFeature - DEBUG - add activity class Relax
+2018-04-10 23:45:24,844 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-10 23:45:24,844 - AlFeature - DEBUG - add activity class Work
+2018-04-10 23:45:24,844 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-10 23:45:24,845 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-10 23:45:24,845 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-10 23:45:24,845 - AlFeature - DEBUG - add activity class Sleep
+2018-04-10 23:45:24,845 - AlFeature - DEBUG - Finished assigning index to activities. 7 Activities enabled
+2018-04-10 23:45:24,845 - AlFeature - DEBUG - add activity class Leave_Home
+2018-04-10 23:45:24,845 - AlFeature - DEBUG - Finished assigning index to activities. 8 Activities enabled
+2018-04-10 23:45:24,845 - AlFeature - DEBUG - add activity class Cook
+2018-04-10 23:45:24,845 - AlFeature - DEBUG - Finished assigning index to activities. 9 Activities enabled
+2018-04-10 23:45:24,845 - AlFeature - DEBUG - add activity class Eat
+2018-04-10 23:45:24,845 - AlFeature - DEBUG - Finished assigning index to activities. 10 Activities enabled
+2018-04-10 23:45:24,845 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-10 23:45:24,845 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-10 23:45:24,845 - AlFeature - DEBUG - Add sensor OutsideDoor to sensor list
+2018-04-10 23:45:24,846 - AlFeature - DEBUG - Add sensor Office to sensor list
+2018-04-10 23:45:24,846 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-10 23:45:24,846 - AlFeature - DEBUG - Add sensor Bedroom to sensor list
+2018-04-10 23:45:24,846 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-10 23:45:24,846 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-10 23:45:24,846 - AlFeature - DEBUG - Add 8 Sensors into sensorList
+2018-04-10 23:45:24,846 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-10 23:45:24,846 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-10 23:45:24,846 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-10 23:45:24,871 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-10 23:45:24,871 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-10 23:45:24,871 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-10 23:45:24,871 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-10 23:45:24,871 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-10 23:45:24,871 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-10 23:45:24,872 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-10 23:45:24,872 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-10 23:45:24,872 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-10 23:45:24,872 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-10 23:45:24,872 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-10 23:45:24,873 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-10 23:45:24,873 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-10 23:45:24,873 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-10 23:45:25,803 - AlFeature - DEBUG - Total amount of feature vectors calculated: 4869
+2018-04-10 23:49:11,912 - AlFeature - DEBUG - add activity class Enter_Home
+2018-04-10 23:49:11,912 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-10 23:49:11,912 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-10 23:49:11,912 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-10 23:49:11,913 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-10 23:49:11,913 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-10 23:49:11,913 - AlFeature - DEBUG - add activity class Relax
+2018-04-10 23:49:11,913 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-10 23:49:11,913 - AlFeature - DEBUG - add activity class Work
+2018-04-10 23:49:11,913 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-10 23:49:11,913 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-10 23:49:11,913 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-10 23:49:11,913 - AlFeature - DEBUG - add activity class Sleep
+2018-04-10 23:49:11,913 - AlFeature - DEBUG - Finished assigning index to activities. 7 Activities enabled
+2018-04-10 23:49:11,913 - AlFeature - DEBUG - add activity class Leave_Home
+2018-04-10 23:49:11,913 - AlFeature - DEBUG - Finished assigning index to activities. 8 Activities enabled
+2018-04-10 23:49:11,913 - AlFeature - DEBUG - add activity class Cook
+2018-04-10 23:49:11,914 - AlFeature - DEBUG - Finished assigning index to activities. 9 Activities enabled
+2018-04-10 23:49:11,914 - AlFeature - DEBUG - add activity class Eat
+2018-04-10 23:49:11,914 - AlFeature - DEBUG - Finished assigning index to activities. 10 Activities enabled
+2018-04-10 23:49:11,914 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-10 23:49:11,914 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-10 23:49:11,914 - AlFeature - DEBUG - Add sensor OutsideDoor to sensor list
+2018-04-10 23:49:11,914 - AlFeature - DEBUG - Add sensor Office to sensor list
+2018-04-10 23:49:11,914 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-10 23:49:11,914 - AlFeature - DEBUG - Add sensor Bedroom to sensor list
+2018-04-10 23:49:11,914 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-10 23:49:11,914 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-10 23:49:11,914 - AlFeature - DEBUG - Add 8 Sensors into sensorList
+2018-04-10 23:49:11,915 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-10 23:49:11,915 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-10 23:49:11,915 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-10 23:49:11,946 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-10 23:49:11,946 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-10 23:49:11,946 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-10 23:49:11,946 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-10 23:49:11,946 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-10 23:49:11,947 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-10 23:49:11,947 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-10 23:49:11,947 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-10 23:49:11,947 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-10 23:49:11,947 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-10 23:49:11,948 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-10 23:49:11,948 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-10 23:49:11,948 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-10 23:49:11,948 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-10 23:49:12,874 - AlFeature - DEBUG - Total amount of feature vectors calculated: 4869
+2018-04-11 00:02:11,445 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-11 00:02:11,447 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-11 00:02:11,447 - AlFeature - DEBUG - add activity class Relax
+2018-04-11 00:02:11,447 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-11 00:02:11,448 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-11 00:02:11,448 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-11 00:02:11,448 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-11 00:02:11,448 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-11 00:02:11,448 - AlFeature - DEBUG - add activity class Sleep
+2018-04-11 00:02:11,449 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-11 00:02:11,449 - AlFeature - DEBUG - add activity class Eat
+2018-04-11 00:02:11,449 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-11 00:02:11,449 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-11 00:02:11,449 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-11 00:02:11,450 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-11 00:02:11,450 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-11 00:02:11,450 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-11 00:02:11,450 - AlFeature - DEBUG - Add 5 Sensors into sensorList
+2018-04-11 00:02:11,450 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-11 00:02:11,451 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-11 00:02:11,451 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-11 00:02:11,471 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-11 00:02:11,471 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-11 00:02:11,472 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-11 00:02:11,472 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-11 00:02:11,472 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-11 00:02:11,472 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-11 00:02:11,472 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-11 00:02:11,473 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-11 00:02:11,473 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-11 00:02:11,473 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-11 00:02:11,473 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-11 00:02:11,473 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-11 00:02:11,473 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-11 00:02:11,473 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-11 00:02:11,523 - AlFeature - DEBUG - Total amount of feature vectors calculated: 301
+2018-04-11 00:05:48,594 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-11 00:05:48,594 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-11 00:05:48,594 - AlFeature - DEBUG - add activity class Relax
+2018-04-11 00:05:48,595 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-11 00:05:48,595 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-11 00:05:48,595 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-11 00:05:48,595 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-11 00:05:48,595 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-11 00:05:48,595 - AlFeature - DEBUG - add activity class Sleep
+2018-04-11 00:05:48,595 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-11 00:05:48,595 - AlFeature - DEBUG - add activity class Eat
+2018-04-11 00:05:48,595 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-11 00:05:48,595 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-11 00:05:48,595 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-11 00:05:48,595 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-11 00:05:48,596 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-11 00:05:48,596 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-11 00:05:48,596 - AlFeature - DEBUG - Add 5 Sensors into sensorList
+2018-04-11 00:05:48,596 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-11 00:05:48,596 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-11 00:05:48,596 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-11 00:05:48,612 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-11 00:05:48,612 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-11 00:05:48,612 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-11 00:05:48,612 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-11 00:05:48,612 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-11 00:05:48,612 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-11 00:05:48,612 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-11 00:05:48,612 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-11 00:05:48,612 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-11 00:05:48,612 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-11 00:05:48,613 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-11 00:05:48,613 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-11 00:05:48,613 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-11 00:05:48,613 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-11 00:05:48,669 - AlFeature - DEBUG - Total amount of feature vectors calculated: 301
+2018-04-11 00:11:48,543 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-11 00:11:48,543 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-11 00:11:48,543 - AlFeature - DEBUG - add activity class Relax
+2018-04-11 00:11:48,543 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-11 00:11:48,544 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-11 00:11:48,544 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-11 00:11:48,544 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-11 00:11:48,544 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-11 00:11:48,544 - AlFeature - DEBUG - add activity class Sleep
+2018-04-11 00:11:48,544 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-11 00:11:48,544 - AlFeature - DEBUG - add activity class Eat
+2018-04-11 00:11:48,544 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-11 00:11:48,544 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-11 00:11:48,544 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-11 00:11:48,544 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-11 00:11:48,544 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-11 00:11:48,545 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-11 00:11:48,545 - AlFeature - DEBUG - Add 5 Sensors into sensorList
+2018-04-11 00:11:48,545 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-11 00:11:48,545 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-11 00:11:48,545 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-11 00:11:48,561 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-11 00:11:48,561 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-11 00:11:48,561 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-11 00:11:48,562 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-11 00:11:48,562 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-11 00:11:48,562 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-11 00:11:48,562 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-11 00:11:48,562 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-11 00:11:48,563 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-11 00:11:48,563 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-11 00:11:48,563 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-11 00:11:48,563 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-11 00:11:48,563 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-11 00:11:48,564 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-11 00:11:48,623 - AlFeature - DEBUG - Total amount of feature vectors calculated: 301
+2018-04-11 00:17:02,522 - AlFeature - DEBUG - add activity class Enter_Home
+2018-04-11 00:17:02,522 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-11 00:17:02,522 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-11 00:17:02,522 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-11 00:17:02,523 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-11 00:17:02,523 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-11 00:17:02,523 - AlFeature - DEBUG - add activity class Relax
+2018-04-11 00:17:02,523 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-11 00:17:02,523 - AlFeature - DEBUG - add activity class Work
+2018-04-11 00:17:02,523 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-11 00:17:02,523 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-11 00:17:02,523 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-11 00:17:02,523 - AlFeature - DEBUG - add activity class Sleep
+2018-04-11 00:17:02,523 - AlFeature - DEBUG - Finished assigning index to activities. 7 Activities enabled
+2018-04-11 00:17:02,523 - AlFeature - DEBUG - add activity class Leave_Home
+2018-04-11 00:17:02,523 - AlFeature - DEBUG - Finished assigning index to activities. 8 Activities enabled
+2018-04-11 00:17:02,524 - AlFeature - DEBUG - add activity class Cook
+2018-04-11 00:17:02,524 - AlFeature - DEBUG - Finished assigning index to activities. 9 Activities enabled
+2018-04-11 00:17:02,524 - AlFeature - DEBUG - add activity class Eat
+2018-04-11 00:17:02,524 - AlFeature - DEBUG - Finished assigning index to activities. 10 Activities enabled
+2018-04-11 00:17:02,524 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-11 00:17:02,524 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-11 00:17:02,524 - AlFeature - DEBUG - Add sensor OutsideDoor to sensor list
+2018-04-11 00:17:02,524 - AlFeature - DEBUG - Add sensor Office to sensor list
+2018-04-11 00:17:02,524 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-11 00:17:02,524 - AlFeature - DEBUG - Add sensor Bedroom to sensor list
+2018-04-11 00:17:02,524 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-11 00:17:02,524 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-11 00:17:02,524 - AlFeature - DEBUG - Add 8 Sensors into sensorList
+2018-04-11 00:17:02,525 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-11 00:17:02,525 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-11 00:17:02,525 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-11 00:17:02,555 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-11 00:17:02,555 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-11 00:17:02,555 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-11 00:17:02,555 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-11 00:17:02,555 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-11 00:17:02,555 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-11 00:17:02,555 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-11 00:17:02,555 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-11 00:17:02,556 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-11 00:17:02,556 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-11 00:17:02,556 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-11 00:17:02,556 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-11 00:17:02,556 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-11 00:17:02,557 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-11 00:17:03,490 - AlFeature - DEBUG - Total amount of feature vectors calculated: 4869
+2018-04-11 16:20:10,283 - AlFeature - DEBUG - add activity class Enter_Home
+2018-04-11 16:20:10,285 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-11 16:20:10,285 - AlFeature - DEBUG - add activity class Work
+2018-04-11 16:20:10,285 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-11 16:20:10,285 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-11 16:20:10,285 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-11 16:20:10,285 - AlFeature - DEBUG - add activity class Relax
+2018-04-11 16:20:10,285 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-11 16:20:10,286 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-11 16:20:10,286 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-11 16:20:10,286 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-11 16:20:10,286 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-11 16:20:10,286 - AlFeature - DEBUG - add activity class Sleep
+2018-04-11 16:20:10,286 - AlFeature - DEBUG - Finished assigning index to activities. 7 Activities enabled
+2018-04-11 16:20:10,286 - AlFeature - DEBUG - add activity class Leave_Home
+2018-04-11 16:20:10,286 - AlFeature - DEBUG - Finished assigning index to activities. 8 Activities enabled
+2018-04-11 16:20:10,286 - AlFeature - DEBUG - add activity class Cook
+2018-04-11 16:20:10,286 - AlFeature - DEBUG - Finished assigning index to activities. 9 Activities enabled
+2018-04-11 16:20:10,286 - AlFeature - DEBUG - add activity class Eat
+2018-04-11 16:20:10,287 - AlFeature - DEBUG - Finished assigning index to activities. 10 Activities enabled
+2018-04-11 16:20:10,287 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-11 16:20:10,287 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-11 16:20:10,287 - AlFeature - DEBUG - Add sensor OutsideDoor to sensor list
+2018-04-11 16:20:10,287 - AlFeature - DEBUG - Add sensor Office to sensor list
+2018-04-11 16:20:10,287 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-11 16:20:10,287 - AlFeature - DEBUG - Add sensor Bedroom to sensor list
+2018-04-11 16:20:10,287 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-11 16:20:10,287 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-11 16:20:10,287 - AlFeature - DEBUG - Add 8 Sensors into sensorList
+2018-04-11 16:20:10,287 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-11 16:20:10,287 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-11 16:20:10,288 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-11 16:20:10,289 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-11 16:20:10,289 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-11 16:20:10,289 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-11 16:20:10,289 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-11 16:20:10,289 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-11 16:20:10,289 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-11 16:20:10,289 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-11 16:20:10,289 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-11 16:20:10,289 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-11 16:20:10,289 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-11 16:20:10,289 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-11 16:20:10,290 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-11 16:20:10,290 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-11 16:20:10,290 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-11 16:20:11,469 - AlFeature - DEBUG - Total amount of feature vectors calculated: 6123
+2018-04-11 16:23:29,850 - AlFeature - DEBUG - add activity class Enter_Home
+2018-04-11 16:23:29,850 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-11 16:23:29,850 - AlFeature - DEBUG - add activity class Work
+2018-04-11 16:23:29,851 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-11 16:23:29,851 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-11 16:23:29,851 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-11 16:23:29,851 - AlFeature - DEBUG - add activity class Relax
+2018-04-11 16:23:29,851 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-11 16:23:29,851 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-11 16:23:29,851 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-11 16:23:29,851 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-11 16:23:29,851 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-11 16:23:29,851 - AlFeature - DEBUG - add activity class Sleep
+2018-04-11 16:23:29,851 - AlFeature - DEBUG - Finished assigning index to activities. 7 Activities enabled
+2018-04-11 16:23:29,851 - AlFeature - DEBUG - add activity class Leave_Home
+2018-04-11 16:23:29,851 - AlFeature - DEBUG - Finished assigning index to activities. 8 Activities enabled
+2018-04-11 16:23:29,852 - AlFeature - DEBUG - add activity class Cook
+2018-04-11 16:23:29,852 - AlFeature - DEBUG - Finished assigning index to activities. 9 Activities enabled
+2018-04-11 16:23:29,852 - AlFeature - DEBUG - add activity class Eat
+2018-04-11 16:23:29,852 - AlFeature - DEBUG - Finished assigning index to activities. 10 Activities enabled
+2018-04-11 16:23:29,852 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-11 16:23:29,852 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-11 16:23:29,852 - AlFeature - DEBUG - Add sensor OutsideDoor to sensor list
+2018-04-11 16:23:29,852 - AlFeature - DEBUG - Add sensor Office to sensor list
+2018-04-11 16:23:29,852 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-11 16:23:29,852 - AlFeature - DEBUG - Add sensor Bedroom to sensor list
+2018-04-11 16:23:29,852 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-11 16:23:29,852 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-11 16:23:29,853 - AlFeature - DEBUG - Add 8 Sensors into sensorList
+2018-04-11 16:23:29,853 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-11 16:23:29,853 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-11 16:23:29,853 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-11 16:23:29,892 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-11 16:23:29,892 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-11 16:23:29,892 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-11 16:23:29,892 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-11 16:23:29,892 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-11 16:23:29,892 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-11 16:23:29,892 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-11 16:23:29,893 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-11 16:23:29,893 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-11 16:23:29,893 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-11 16:23:29,893 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-11 16:23:29,893 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-11 16:23:29,893 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-11 16:23:29,893 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-11 16:23:31,081 - AlFeature - DEBUG - Total amount of feature vectors calculated: 6123
+2018-04-11 16:27:40,550 - AlFeature - DEBUG - add activity class Enter_Home
+2018-04-11 16:27:40,551 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-11 16:27:40,551 - AlFeature - DEBUG - add activity class Work
+2018-04-11 16:27:40,551 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-11 16:27:40,551 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-11 16:27:40,551 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-11 16:27:40,551 - AlFeature - DEBUG - add activity class Relax
+2018-04-11 16:27:40,551 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-11 16:27:40,551 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-11 16:27:40,551 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-11 16:27:40,551 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-11 16:27:40,552 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-11 16:27:40,552 - AlFeature - DEBUG - add activity class Sleep
+2018-04-11 16:27:40,552 - AlFeature - DEBUG - Finished assigning index to activities. 7 Activities enabled
+2018-04-11 16:27:40,552 - AlFeature - DEBUG - add activity class Leave_Home
+2018-04-11 16:27:40,552 - AlFeature - DEBUG - Finished assigning index to activities. 8 Activities enabled
+2018-04-11 16:27:40,552 - AlFeature - DEBUG - add activity class Cook
+2018-04-11 16:27:40,552 - AlFeature - DEBUG - Finished assigning index to activities. 9 Activities enabled
+2018-04-11 16:27:40,552 - AlFeature - DEBUG - add activity class Eat
+2018-04-11 16:27:40,552 - AlFeature - DEBUG - Finished assigning index to activities. 10 Activities enabled
+2018-04-11 16:27:40,552 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-11 16:27:40,552 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-11 16:27:40,552 - AlFeature - DEBUG - Add sensor OutsideDoor to sensor list
+2018-04-11 16:27:40,552 - AlFeature - DEBUG - Add sensor Office to sensor list
+2018-04-11 16:27:40,553 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-11 16:27:40,553 - AlFeature - DEBUG - Add sensor Bedroom to sensor list
+2018-04-11 16:27:40,553 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-11 16:27:40,553 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-11 16:27:40,553 - AlFeature - DEBUG - Add 8 Sensors into sensorList
+2018-04-11 16:27:40,553 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-11 16:27:40,553 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-11 16:27:40,553 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-11 16:27:40,596 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-11 16:27:40,597 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-11 16:27:40,597 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-11 16:27:40,597 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-11 16:27:40,597 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-11 16:27:40,597 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-11 16:27:40,597 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-11 16:27:40,597 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-11 16:27:40,597 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-11 16:27:40,597 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-11 16:27:40,597 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-11 16:27:40,597 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-11 16:27:40,597 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-11 16:27:40,598 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-11 16:27:41,798 - AlFeature - DEBUG - Total amount of feature vectors calculated: 6123
+2018-04-11 16:31:48,765 - AlFeature - DEBUG - add activity class Enter_Home
+2018-04-11 16:31:48,766 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-11 16:31:48,766 - AlFeature - DEBUG - add activity class Work
+2018-04-11 16:31:48,766 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-11 16:31:48,766 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-11 16:31:48,766 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-11 16:31:48,766 - AlFeature - DEBUG - add activity class Relax
+2018-04-11 16:31:48,766 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-11 16:31:48,767 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-11 16:31:48,767 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-11 16:31:48,767 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-11 16:31:48,767 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-11 16:31:48,767 - AlFeature - DEBUG - add activity class Sleep
+2018-04-11 16:31:48,767 - AlFeature - DEBUG - Finished assigning index to activities. 7 Activities enabled
+2018-04-11 16:31:48,767 - AlFeature - DEBUG - add activity class Leave_Home
+2018-04-11 16:31:48,767 - AlFeature - DEBUG - Finished assigning index to activities. 8 Activities enabled
+2018-04-11 16:31:48,767 - AlFeature - DEBUG - add activity class Cook
+2018-04-11 16:31:48,767 - AlFeature - DEBUG - Finished assigning index to activities. 9 Activities enabled
+2018-04-11 16:31:48,767 - AlFeature - DEBUG - add activity class Eat
+2018-04-11 16:31:48,767 - AlFeature - DEBUG - Finished assigning index to activities. 10 Activities enabled
+2018-04-11 16:31:48,767 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-11 16:31:48,768 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-11 16:31:48,768 - AlFeature - DEBUG - Add sensor OutsideDoor to sensor list
+2018-04-11 16:31:48,768 - AlFeature - DEBUG - Add sensor Office to sensor list
+2018-04-11 16:31:48,768 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-11 16:31:48,768 - AlFeature - DEBUG - Add sensor Bedroom to sensor list
+2018-04-11 16:31:48,768 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-11 16:31:48,768 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-11 16:31:48,768 - AlFeature - DEBUG - Add 8 Sensors into sensorList
+2018-04-11 16:31:48,768 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-11 16:31:48,768 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-11 16:31:48,768 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-11 16:31:48,807 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-11 16:31:48,807 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-11 16:31:48,808 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-11 16:31:48,808 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-11 16:31:48,808 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-11 16:31:48,808 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-11 16:31:48,808 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-11 16:31:48,809 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-11 16:31:48,809 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-11 16:31:48,809 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-11 16:31:48,809 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-11 16:31:48,809 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-11 16:31:48,810 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-11 16:31:48,810 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-11 16:31:50,010 - AlFeature - DEBUG - Total amount of feature vectors calculated: 6123
+2018-04-11 16:47:58,539 - AlFeature - DEBUG - add activity class Enter_Home
+2018-04-11 16:47:58,539 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-11 16:47:58,539 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-11 16:47:58,539 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-11 16:47:58,539 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-11 16:47:58,539 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-11 16:47:58,539 - AlFeature - DEBUG - add activity class Relax
+2018-04-11 16:47:58,540 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-11 16:47:58,540 - AlFeature - DEBUG - add activity class Work
+2018-04-11 16:47:58,540 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-11 16:47:58,540 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-11 16:47:58,540 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-11 16:47:58,540 - AlFeature - DEBUG - add activity class Sleep
+2018-04-11 16:47:58,540 - AlFeature - DEBUG - Finished assigning index to activities. 7 Activities enabled
+2018-04-11 16:47:58,540 - AlFeature - DEBUG - add activity class Leave_Home
+2018-04-11 16:47:58,540 - AlFeature - DEBUG - Finished assigning index to activities. 8 Activities enabled
+2018-04-11 16:47:58,540 - AlFeature - DEBUG - add activity class Cook
+2018-04-11 16:47:58,540 - AlFeature - DEBUG - Finished assigning index to activities. 9 Activities enabled
+2018-04-11 16:47:58,540 - AlFeature - DEBUG - add activity class Eat
+2018-04-11 16:47:58,541 - AlFeature - DEBUG - Finished assigning index to activities. 10 Activities enabled
+2018-04-11 16:47:58,541 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-11 16:47:58,541 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-11 16:47:58,541 - AlFeature - DEBUG - Add sensor OutsideDoor to sensor list
+2018-04-11 16:47:58,541 - AlFeature - DEBUG - Add sensor Office to sensor list
+2018-04-11 16:47:58,541 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-11 16:47:58,541 - AlFeature - DEBUG - Add sensor Bedroom to sensor list
+2018-04-11 16:47:58,541 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-11 16:47:58,541 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-11 16:47:58,541 - AlFeature - DEBUG - Add 8 Sensors into sensorList
+2018-04-11 16:47:58,542 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-11 16:47:58,542 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-11 16:47:58,542 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-11 16:47:58,543 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-11 16:47:58,543 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-11 16:47:58,543 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-11 16:47:58,543 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-11 16:47:58,543 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-11 16:47:58,543 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-11 16:47:58,543 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-11 16:47:58,543 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-11 16:47:58,544 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-11 16:47:58,544 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-11 16:47:58,544 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-11 16:47:58,544 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-11 16:47:58,544 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-11 16:47:58,544 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-11 16:47:59,506 - AlFeature - DEBUG - Total amount of feature vectors calculated: 4869
+2018-04-11 16:52:15,761 - AlFeature - DEBUG - add activity class Enter_Home
+2018-04-11 16:52:15,761 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-11 16:52:15,761 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-11 16:52:15,762 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-11 16:52:15,762 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-11 16:52:15,762 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-11 16:52:15,762 - AlFeature - DEBUG - add activity class Relax
+2018-04-11 16:52:15,762 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-11 16:52:15,762 - AlFeature - DEBUG - add activity class Work
+2018-04-11 16:52:15,762 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-11 16:52:15,762 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-11 16:52:15,762 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-11 16:52:15,762 - AlFeature - DEBUG - add activity class Sleep
+2018-04-11 16:52:15,762 - AlFeature - DEBUG - Finished assigning index to activities. 7 Activities enabled
+2018-04-11 16:52:15,763 - AlFeature - DEBUG - add activity class Leave_Home
+2018-04-11 16:52:15,763 - AlFeature - DEBUG - Finished assigning index to activities. 8 Activities enabled
+2018-04-11 16:52:15,763 - AlFeature - DEBUG - add activity class Cook
+2018-04-11 16:52:15,763 - AlFeature - DEBUG - Finished assigning index to activities. 9 Activities enabled
+2018-04-11 16:52:15,763 - AlFeature - DEBUG - add activity class Eat
+2018-04-11 16:52:15,763 - AlFeature - DEBUG - Finished assigning index to activities. 10 Activities enabled
+2018-04-11 16:52:15,763 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-11 16:52:15,763 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-11 16:52:15,763 - AlFeature - DEBUG - Add sensor OutsideDoor to sensor list
+2018-04-11 16:52:15,763 - AlFeature - DEBUG - Add sensor Office to sensor list
+2018-04-11 16:52:15,763 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-11 16:52:15,764 - AlFeature - DEBUG - Add sensor Bedroom to sensor list
+2018-04-11 16:52:15,764 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-11 16:52:15,764 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-11 16:52:15,764 - AlFeature - DEBUG - Add 8 Sensors into sensorList
+2018-04-11 16:52:15,764 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-11 16:52:15,764 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-11 16:52:15,764 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-11 16:52:15,765 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-11 16:52:15,765 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-11 16:52:15,765 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-11 16:52:15,766 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-11 16:52:15,766 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-11 16:52:15,766 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-11 16:52:15,766 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-11 16:52:15,766 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-11 16:52:15,766 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-11 16:52:15,766 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-11 16:52:15,766 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-11 16:52:15,766 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-11 16:52:15,767 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-11 16:52:15,767 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-11 16:52:16,714 - AlFeature - DEBUG - Total amount of feature vectors calculated: 4869
+2018-04-11 16:57:01,089 - AlFeature - DEBUG - add activity class Enter_Home
+2018-04-11 16:57:01,090 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-11 16:57:01,090 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-11 16:57:01,090 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-11 16:57:01,090 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-11 16:57:01,090 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-11 16:57:01,090 - AlFeature - DEBUG - add activity class Relax
+2018-04-11 16:57:01,091 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-11 16:57:01,091 - AlFeature - DEBUG - add activity class Work
+2018-04-11 16:57:01,091 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-11 16:57:01,091 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-11 16:57:01,091 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-11 16:57:01,091 - AlFeature - DEBUG - add activity class Sleep
+2018-04-11 16:57:01,091 - AlFeature - DEBUG - Finished assigning index to activities. 7 Activities enabled
+2018-04-11 16:57:01,091 - AlFeature - DEBUG - add activity class Leave_Home
+2018-04-11 16:57:01,091 - AlFeature - DEBUG - Finished assigning index to activities. 8 Activities enabled
+2018-04-11 16:57:01,091 - AlFeature - DEBUG - add activity class Cook
+2018-04-11 16:57:01,091 - AlFeature - DEBUG - Finished assigning index to activities. 9 Activities enabled
+2018-04-11 16:57:01,092 - AlFeature - DEBUG - add activity class Eat
+2018-04-11 16:57:01,092 - AlFeature - DEBUG - Finished assigning index to activities. 10 Activities enabled
+2018-04-11 16:57:01,092 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-11 16:57:01,092 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-11 16:57:01,092 - AlFeature - DEBUG - Add sensor OutsideDoor to sensor list
+2018-04-11 16:57:01,092 - AlFeature - DEBUG - Add sensor Office to sensor list
+2018-04-11 16:57:01,092 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-11 16:57:01,092 - AlFeature - DEBUG - Add sensor Bedroom to sensor list
+2018-04-11 16:57:01,092 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-11 16:57:01,092 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-11 16:57:01,092 - AlFeature - DEBUG - Add 8 Sensors into sensorList
+2018-04-11 16:57:01,093 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-11 16:57:01,093 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-11 16:57:01,093 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-11 16:57:01,117 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-11 16:57:01,118 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-11 16:57:01,118 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-11 16:57:01,118 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-11 16:57:01,118 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-11 16:57:01,118 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-11 16:57:01,118 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-11 16:57:01,118 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-11 16:57:01,118 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-11 16:57:01,118 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-11 16:57:01,119 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-11 16:57:01,119 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-11 16:57:01,119 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-11 16:57:01,119 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-11 16:57:02,145 - AlFeature - DEBUG - Total amount of feature vectors calculated: 4869
+2018-04-11 17:00:14,726 - AlFeature - DEBUG - add activity class Enter_Home
+2018-04-11 17:00:14,727 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-11 17:00:14,727 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-11 17:00:14,727 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-11 17:00:14,727 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-11 17:00:14,727 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-11 17:00:14,727 - AlFeature - DEBUG - add activity class Relax
+2018-04-11 17:00:14,728 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-11 17:00:14,728 - AlFeature - DEBUG - add activity class Work
+2018-04-11 17:00:14,728 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-11 17:00:14,728 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-11 17:00:14,728 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-11 17:00:14,728 - AlFeature - DEBUG - add activity class Sleep
+2018-04-11 17:00:14,728 - AlFeature - DEBUG - Finished assigning index to activities. 7 Activities enabled
+2018-04-11 17:00:14,728 - AlFeature - DEBUG - add activity class Leave_Home
+2018-04-11 17:00:14,728 - AlFeature - DEBUG - Finished assigning index to activities. 8 Activities enabled
+2018-04-11 17:00:14,728 - AlFeature - DEBUG - add activity class Cook
+2018-04-11 17:00:14,728 - AlFeature - DEBUG - Finished assigning index to activities. 9 Activities enabled
+2018-04-11 17:00:14,728 - AlFeature - DEBUG - add activity class Eat
+2018-04-11 17:00:14,729 - AlFeature - DEBUG - Finished assigning index to activities. 10 Activities enabled
+2018-04-11 17:00:14,729 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-11 17:00:14,729 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-11 17:00:14,729 - AlFeature - DEBUG - Add sensor OutsideDoor to sensor list
+2018-04-11 17:00:14,729 - AlFeature - DEBUG - Add sensor Office to sensor list
+2018-04-11 17:00:14,729 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-11 17:00:14,729 - AlFeature - DEBUG - Add sensor Bedroom to sensor list
+2018-04-11 17:00:14,729 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-11 17:00:14,729 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-11 17:00:14,729 - AlFeature - DEBUG - Add 8 Sensors into sensorList
+2018-04-11 17:00:14,729 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-11 17:00:14,729 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-11 17:00:14,730 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-11 17:00:14,731 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-11 17:00:14,731 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-11 17:00:14,731 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-11 17:00:14,731 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-11 17:00:14,731 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-11 17:00:14,731 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-11 17:00:14,731 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-11 17:00:14,731 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-11 17:00:14,731 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-11 17:00:14,731 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-11 17:00:14,731 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-11 17:00:14,732 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-11 17:00:14,732 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-11 17:00:14,732 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-11 17:00:15,729 - AlFeature - DEBUG - Total amount of feature vectors calculated: 4869
+2018-04-11 17:13:49,315 - AlFeature - DEBUG - add activity class Enter_Home
+2018-04-11 17:13:49,316 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-11 17:13:49,316 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-11 17:13:49,316 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-11 17:13:49,316 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-11 17:13:49,316 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-11 17:13:49,316 - AlFeature - DEBUG - add activity class Relax
+2018-04-11 17:13:49,316 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-11 17:13:49,316 - AlFeature - DEBUG - add activity class Work
+2018-04-11 17:13:49,316 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-11 17:13:49,316 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-11 17:13:49,317 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-11 17:13:49,317 - AlFeature - DEBUG - add activity class Sleep
+2018-04-11 17:13:49,317 - AlFeature - DEBUG - Finished assigning index to activities. 7 Activities enabled
+2018-04-11 17:13:49,317 - AlFeature - DEBUG - add activity class Leave_Home
+2018-04-11 17:13:49,317 - AlFeature - DEBUG - Finished assigning index to activities. 8 Activities enabled
+2018-04-11 17:13:49,317 - AlFeature - DEBUG - add activity class Cook
+2018-04-11 17:13:49,317 - AlFeature - DEBUG - Finished assigning index to activities. 9 Activities enabled
+2018-04-11 17:13:49,317 - AlFeature - DEBUG - add activity class Eat
+2018-04-11 17:13:49,317 - AlFeature - DEBUG - Finished assigning index to activities. 10 Activities enabled
+2018-04-11 17:13:49,317 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-11 17:13:49,317 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-11 17:13:49,317 - AlFeature - DEBUG - Add sensor OutsideDoor to sensor list
+2018-04-11 17:13:49,317 - AlFeature - DEBUG - Add sensor Office to sensor list
+2018-04-11 17:13:49,318 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-11 17:13:49,318 - AlFeature - DEBUG - Add sensor Bedroom to sensor list
+2018-04-11 17:13:49,318 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-11 17:13:49,318 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-11 17:13:49,318 - AlFeature - DEBUG - Add 8 Sensors into sensorList
+2018-04-11 17:13:49,318 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-11 17:13:49,318 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-11 17:13:49,318 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-11 17:13:49,319 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-11 17:13:49,319 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-11 17:13:49,319 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-11 17:13:49,319 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-11 17:13:49,320 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-11 17:13:49,320 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-11 17:13:49,320 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-11 17:13:49,320 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-11 17:13:49,320 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-11 17:13:49,320 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-11 17:13:49,320 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-11 17:13:49,320 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-11 17:13:49,320 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-11 17:13:49,320 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-11 17:13:50,333 - AlFeature - DEBUG - Total amount of feature vectors calculated: 4869
+2018-04-11 17:17:03,013 - AlFeature - DEBUG - add activity class Enter_Home
+2018-04-11 17:17:03,014 - AlFeature - DEBUG - Finished assigning index to activities. 1 Activities enabled
+2018-04-11 17:17:03,014 - AlFeature - DEBUG - add activity class Wash_Dishes
+2018-04-11 17:17:03,014 - AlFeature - DEBUG - Finished assigning index to activities. 2 Activities enabled
+2018-04-11 17:17:03,014 - AlFeature - DEBUG - add activity class Personal_Hygiene
+2018-04-11 17:17:03,014 - AlFeature - DEBUG - Finished assigning index to activities. 3 Activities enabled
+2018-04-11 17:17:03,014 - AlFeature - DEBUG - add activity class Relax
+2018-04-11 17:17:03,014 - AlFeature - DEBUG - Finished assigning index to activities. 4 Activities enabled
+2018-04-11 17:17:03,014 - AlFeature - DEBUG - add activity class Work
+2018-04-11 17:17:03,014 - AlFeature - DEBUG - Finished assigning index to activities. 5 Activities enabled
+2018-04-11 17:17:03,014 - AlFeature - DEBUG - add activity class Other_Activity
+2018-04-11 17:17:03,014 - AlFeature - DEBUG - Finished assigning index to activities. 6 Activities enabled
+2018-04-11 17:17:03,014 - AlFeature - DEBUG - add activity class Sleep
+2018-04-11 17:17:03,015 - AlFeature - DEBUG - Finished assigning index to activities. 7 Activities enabled
+2018-04-11 17:17:03,015 - AlFeature - DEBUG - add activity class Leave_Home
+2018-04-11 17:17:03,015 - AlFeature - DEBUG - Finished assigning index to activities. 8 Activities enabled
+2018-04-11 17:17:03,015 - AlFeature - DEBUG - add activity class Cook
+2018-04-11 17:17:03,015 - AlFeature - DEBUG - Finished assigning index to activities. 9 Activities enabled
+2018-04-11 17:17:03,015 - AlFeature - DEBUG - add activity class Eat
+2018-04-11 17:17:03,015 - AlFeature - DEBUG - Finished assigning index to activities. 10 Activities enabled
+2018-04-11 17:17:03,015 - AlFeature - DEBUG - Add sensor Bathroom to sensor list
+2018-04-11 17:17:03,015 - AlFeature - DEBUG - Add sensor LivingRoom to sensor list
+2018-04-11 17:17:03,015 - AlFeature - DEBUG - Add sensor OutsideDoor to sensor list
+2018-04-11 17:17:03,015 - AlFeature - DEBUG - Add sensor Office to sensor list
+2018-04-11 17:17:03,015 - AlFeature - DEBUG - Add sensor DiningRoom to sensor list
+2018-04-11 17:17:03,016 - AlFeature - DEBUG - Add sensor Bedroom to sensor list
+2018-04-11 17:17:03,016 - AlFeature - DEBUG - Add sensor Hall to sensor list
+2018-04-11 17:17:03,016 - AlFeature - DEBUG - Add sensor Kitchen to sensor list
+2018-04-11 17:17:03,016 - AlFeature - DEBUG - Add 8 Sensors into sensorList
+2018-04-11 17:17:03,016 - AlFeature - DEBUG - Add Feature sensorCount: Number of Events in the window related to the sensor
+2018-04-11 17:17:03,016 - AlFeature - DEBUG - Add feature routine SensorCountRoutine: Count Occurrence of all sensors in current event window
+2018-04-11 17:17:03,016 - AlFeature - DEBUG - Finished assigning index to features. 0 Static Features, 1 Per Sensor Features
+2018-04-11 17:17:03,017 - AlFeature - DEBUG - Add Feature windowDuration: Duration of current window in seconds
+2018-04-11 17:17:03,017 - AlFeature - DEBUG - Finished assigning index to features. 1 Static Features, 1 Per Sensor Features
+2018-04-11 17:17:03,017 - AlFeature - DEBUG - Add Feature lastEventHour: Time of the last sensor event in window (hour)
+2018-04-11 17:17:03,017 - AlFeature - DEBUG - Finished assigning index to features. 2 Static Features, 1 Per Sensor Features
+2018-04-11 17:17:03,017 - AlFeature - DEBUG - Add Feature lastSensorInWindow: Sensor ID in the current window
+2018-04-11 17:17:03,018 - AlFeature - DEBUG - Finished assigning index to features. 3 Static Features, 1 Per Sensor Features
+2018-04-11 17:17:03,018 - AlFeature - DEBUG - Add Feature lastDominantSensor: Dominant Sensor in the previous window
+2018-04-11 17:17:03,018 - AlFeature - DEBUG - Add feature routine DominantSensorUpdateRoutine: DominantSensorUpdateRoutine
+2018-04-11 17:17:03,018 - AlFeature - DEBUG - Finished assigning index to features. 4 Static Features, 1 Per Sensor Features
+2018-04-11 17:17:03,018 - AlFeature - DEBUG - Add Feature lastEventSeconds: Time of the last sensor event in window in seconds
+2018-04-11 17:17:03,018 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 1 Per Sensor Features
+2018-04-11 17:17:03,018 - AlFeature - DEBUG - Add Feature sensorElapseTime: Time since each sensor fired (in seconds)
+2018-04-11 17:17:03,018 - AlFeature - DEBUG - Add feature routine SensorElapseTimeUpdateRoutine: Update Sensor Elapse Time for all enabled sensors
+2018-04-11 17:17:03,018 - AlFeature - DEBUG - Finished assigning index to features. 5 Static Features, 2 Per Sensor Features
+2018-04-11 17:17:03,957 - AlFeature - DEBUG - Total amount of feature vectors calculated: 4869
